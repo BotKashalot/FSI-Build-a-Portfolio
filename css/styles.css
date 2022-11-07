@@ -4,3 +4,21 @@ background-color: aqua;
 img {
     border-radius: 20px;
 }
+.title {
+    text-align: center;
+}
+.project-image1 {
+    border-style: solid;
+    border-color: blanchedalmond;
+    border-width: 3pt;
+}
+.project-image2 {
+    border-color: blue;
+    border-style: dashed;
+    border-width: 3pt;
+}
+.project-image3 {
+    border-style: dashed;
+    border-color:coral;
+    border-width: 3pt;
+}
